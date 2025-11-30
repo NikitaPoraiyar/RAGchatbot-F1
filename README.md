@@ -24,6 +24,9 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## 🚀 Live Demo
+👉 **https://rag-chatbot-f1-m2b9.vercel.app**
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
